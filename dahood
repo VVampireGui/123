@@ -5,8 +5,6 @@ getgenv().OldAimpart = "UpperTorso"
 getgenv().ShakeValue = 0
 getgenv().AutoPred = true
 
----// NOT MADE BY ME BUT I STILL CREDS TO LION //--
-
 local Tool = Instance.new("Tool")
 Tool.RequiresHandle = false
 Tool.Name = "Lunar Cam"
